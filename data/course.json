@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "32fa3bac-35e9-4a91-8f61-abafa22259ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "578a025a-3645-4e37-b91c-a86791712b42",
+    "website": "dynamics-of-the-atmosphere"
+  },
+  "course_title": "Dynamics of the Atmosphere",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course discusses the dynamics of the atmosphere, with emphasis on the large scale. Topics include internal gravity waves in the atmosphere; potential vorticity conservation and Rossby waves; baroclinic instability and extratropical storms; the general circulation including the role of eddies, isentropic coordinates and tracer transport.\n\nThis class builds on a previous version of 12.810 taught by Professor Alan Plumb.",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.810",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Readings",
+    "Problem Sets",
+    "Projects"
+  ],
+  "site_uid": "5135333f-f377-4f95-80d2-2ae04393c4a3",
+  "site_short_id": "12.810-spring-2023",
+  "site_url_path": "courses/12-810-dynamics-of-the-atmosphere-spring-2023"
+}
