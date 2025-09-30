@@ -12,7 +12,7 @@ Lectures: 2 sessions/week, 1.5 hours/session
 
 ## Prerequisites
 
-[*12.800 Fluid Dynamics of the Atmosphere and Ocean*](https://ocw.mit.edu/courses/12-800-fluid-dynamics-of-the-atmosphere-and-ocean-fall-2004/)
+{{% resource_link "6561dc15-59e2-4c2b-9e36-37c4893af40e" "*12.800 Fluid Dynamics of the Atmosphere and Ocean*" %}}
 
 ## Course Description
 
@@ -38,9 +38,9 @@ Geoffrey K. Vallis. *Atmospheric and Oceanic Fluid Dynamics: Fundamentals and La
 
 Jose P. Peixoto and Abraham H. Oort. *Physics of Climate.* American Institute of Physics, 1992. ISBN: 9780883187128.
 
-[Interactive plotting website](https://psl.noaa.gov/cgi-bin/data/composites/printpage.pl)
+{{% resource_link "071837db-7567-40fc-b8e4-737e4a1cc5fc" "Interactive plotting website" %}}
 
-[Gridded climate datasets](https://www.psl.noaa.gov/data/gridded/)
+{{% resource_link "de9d16c6-7c44-4af1-b204-66f90cad56d0" "Gridded climate datasets" %}}
 
 ## Problem Sets and Projects
 

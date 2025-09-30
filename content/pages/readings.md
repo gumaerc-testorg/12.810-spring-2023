@@ -11,12 +11,12 @@ uid: 7fc50c5e-08a4-407f-91e3-65236ed96d42
 
 ## Introduction to Dynamics of the Atmosphere
 
-- **The ERA5 global reanalysis:** Hans Hersbach, Bill Bell, et al. (2020). ["The ERA5 Global Reanalysis."](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3803) *Quart. J. Roy. Met. Soc*. 146(730): 1999–2495.
+- **The ERA5 global reanalysis:** Hans Hersbach, Bill Bell, et al. (2020). {{% resource_link "4defa59f-a7f1-452b-80c6-79909957bbc1" "\"The ERA5 Global Reanalysis.\"" %}} *Quart. J. Roy. Met. Soc*. 146(730): 1999–2495.
 
 ## Hadley Cells and Zonally Symmetric Circulations 
 
-- **Theory:** Isaac M. Held and Arthur Y. Hou (1980). ["Nonlinear Axially Symmetric Circulations in a Nearly Inviscid Atmosphere."](https://journals.ametsoc.org/view/journals/atsc/37/3/1520-0469_1980_037_0515_nascia_2_0_co_2.xml) *Journal of the Atmospheric Sciences* 37(3): 515–533.
-- **Superrotation:** Rodrigo Caballero and Matthew Huber (2010). ["Spontaneous Transition to Superrotation in Warm Climates Simulated by CAM3."](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL043468) *Geophys. Res. Lett*. 37(11): L11701.
+- **Theory:** Isaac M. Held and Arthur Y. Hou (1980). {{% resource_link "ba765796-1d38-4397-a6d7-fd2348c53e42" "\"Nonlinear Axially Symmetric Circulations in a Nearly Inviscid Atmosphere.\"" %}} *Journal of the Atmospheric Sciences* 37(3): 515–533.
+- **Superrotation:** Rodrigo Caballero and Matthew Huber (2010). {{% resource_link "46703141-92a8-49c0-91aa-bb27b219c3ed" "\"Spontaneous Transition to Superrotation in Warm Climates Simulated by CAM3.\"" %}} *Geophys. Res. Lett*. 37(11): L11701.
 
 ## Internal Gravity Waves in the Atmosphere
 
@@ -32,15 +32,15 @@ uid: 7fc50c5e-08a4-407f-91e3-65236ed96d42
 
 ## Vertically Propagating and Stationary Rossby Waves
 
-- **Stationary waves:** [Stationary and Quasi-stationary Eddies in the Extratropical Troposphere: Theory (PDF)](https://www.gfdl.noaa.gov/bibliography/related_files/Held1983_Reduced.pdf) 
+- **Stationary waves:** {{% resource_link "c1c92c40-e712-4aa7-8ba5-76eb0467eecb" "Stationary and Quasi-stationary Eddies in the Extratropical Troposphere: Theory (PDF)" %}} 
 - **Ray tracing:** \[Vallis\] section 16.2
 
 ## Wave Activity and Instability in Midlatitudes
 
-- **E-P fluxes:** H. J. Edmon, B. J. Hoskins, and M. E. McIntyre (1980). ["Eliassen-Palm Cross Sections for the Troposphere."](https://journals.ametsoc.org/view/journals/atsc/37/12/1520-0469_1980_037_2600_epcsft_2_0_co_2.xml) *Journal of the Atmospheric Sciences* 37(12): 2600–2616.
+- **E-P fluxes:** H. J. Edmon, B. J. Hoskins, and M. E. McIntyre (1980). {{% resource_link "9455d4f3-b513-4c45-983e-af7fe015090d" "\"Eliassen-Palm Cross Sections for the Troposphere.\"" %}} *Journal of the Atmospheric Sciences* 37(12): 2600–2616.
 - **Models of baroclinic instability:** \[H&H\] chapter 7; \[Vallis\] chapter 9
 
 ## General Circulation of the Atmosphere
 
 - **Zonally-averaged midlatitude circulation:** \[H&H\] sections 10.2 and 10.2.1
-- **Isentropic circulation:** Olivier Pauluis, Arnaud Czaja, and Robert Korty (2008). ["The Global Atmospheric Circulation on Moist Isentropes."](https://www.science.org/doi/abs/10.1126/science.1159649) *Science* 321(5892): 1075–1078.
+- **Isentropic circulation:** Olivier Pauluis, Arnaud Czaja, and Robert Korty (2008). {{% resource_link "e022a8b8-1dc8-429b-833f-5d62aaafe7e5" "\"The Global Atmospheric Circulation on Moist Isentropes.\"" %}} *Science* 321(5892): 1075–1078.
